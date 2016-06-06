@@ -45,7 +45,7 @@ We take _June, 2016_ as the __1st stage__ with the __primary__ goal of __prototy
 ## Team Members
 | | | |
 |:--:|:--:|:--:|
-|![Likun Du](https://avatars1.githubusercontent.com/u/14044346?v=3&u=aeffbb5aa243d1f6cb6d2059a3eacd6c7b319743&s=140)|![icemintt](http://hdn.xnimg.cn/photos/hdn421/20131128/1910/p/m3w230h230q85lt_h_large_9QG5_def800002ef6113e.jpg)|![Simon Wang](http://hdn.xnimg.cn/photos/hdn221/20150313/1200/h_main_1D7t_e0ff0006c6c8195a.jpg)|
+|![Likun Du](https://avatars1.githubusercontent.com/u/14044346?v=3&u=aeffbb5aa243d1f6cb6d2059a3eacd6c7b319743&s=140)|![icemintt](http://hdn.xnimg.cn/photos/hdn421/20131128/1910/p/m3w230h230q85lt_h_large_9QG5_def800002ef6113e.jpg)|![Simon Wang](http://hdn.xnimg.cn/photos/hdn421/20110808/0950/p/m3w306h230q85lt_h_large_GKwq_69100002f6f22f75.jpg)|
 |[Likun Du](https://github.com/begdor)|[icemintt](https://github.com/icemintt)|[Simon Wang](https://github.com/AssassinW)|
 
 
